@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZXGuo325
-- 👀 I’m interested in cyber attacks
-- 🌱 I’m currently learning mechanical engineering
-- 💞️ I’m looking to collaborate on github
+- 👀 I’m interested in Cyber Attacks
+- 🌱 I’m currently learning Mechanical Engineering
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me ZXGuo325@mail.com
 
 <!---
