@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Mechanical Engineering
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me ZXGuo325@mail.com
+- 🧨 Everything is awesome
 
 <!---
 ZXGuo325/ZXGuo325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
